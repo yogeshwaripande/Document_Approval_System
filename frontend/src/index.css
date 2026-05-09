@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    padding: 2rem;
+  }
+  
+  .container {
+    margin: 0 auto;
+    padding: 2rem;
+    max-width: 600px;
+  }
+  
+  .input {
+    display: block;
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+  }
